@@ -40,11 +40,6 @@
 
 <br><br>
 
-<div align="center">
-<h2>My Frequency Commits</h2>
-![Snake animation](https://github.com/cirqueira99/cirqueira99/blob/output/github-contribution-grid-snake.svg)
-</div>
-
 
 <div align="center">
 </div>
