@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./cirqueira99.png" width="900" height="600"></img>
+</div>
+
+<div align="center">
   <h2>Hi! I'm Carlos Cirqueira :raising_hand:</h2>
   <h5>
   I'm studying for a degree in Information Systems. My goal is to work as a Web analyst and programmer. I had contact with many tools used in Web development: HTML+CSS, Java Script, TypeScript, Bootstrap, Accessibility Web, Angular, React JS, Nest JS, Docker, Kanban, Agile Methodologies and others.
