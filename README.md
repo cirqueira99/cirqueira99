@@ -21,7 +21,7 @@
 <br><br>
 
 <div align="center">
-  <h2>Principal Technologies that I use</h2>
+  <h2>Principal Technologies that I using</h2>
   <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />    
   <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
